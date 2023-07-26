@@ -1,0 +1,57 @@
+{
+    "blogs": [
+        {
+            "title": "the Fetch API article",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted ",
+            "author": "Daniel",
+            "image_url": "images/Right-Fetch.png",
+            "id": 1,
+            "link": "https://dev.to/daniel_kitam_31"
+        },
+        {
+            "title": "shaif's cuisine web",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted ",
+            "author":"Shadrak",
+            "image_url": "https://images.unsplash.com/photo-1556910096-6f5e72db6803?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c2hhaWYlMjBjdWlzaW5lfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "id": 2,
+            "link": "https://shaif-s-cuisine-dan.netlify.app/"
+        },
+        {
+            "title": "Cara e-commerce",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted ",
+            "author":"Meshak",
+            "image_url": "https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGVjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "id": 3,
+            "link": "https://daniel-web-ecommerce.netlify.app/"
+        },
+        {
+            "title": "My Portfolio",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted cfctgvgtv",
+            "author":"Abed",
+            "image_url": "https://media.istockphoto.com/id/515749452/fr/photo/portfolio.jpg?b=1&s=612x612&w=0&k=20&c=xXjP-4n9zVwBJAKOAeFF2wPhVdaIWeWEP_cdgC7_ldk=",
+            "id": 4,
+            "link": "https://danielkit-portfolio-website.netlify.app/"
+        },
+        {
+            "title": "My Portfolio",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted cfctgvgtv",
+            "author":"Abed",
+            "image_url": "https://media.istockphoto.com/id/515749452/fr/photo/portfolio.jpg?b=1&s=612x612&w=0&k=20&c=xXjP-4n9zVwBJAKOAeFF2wPhVdaIWeWEP_cdgC7_ldk=",
+            "id": 5,
+            "link": "https://danielkit-portfolio-website.netlify.app/"
+        }
+    ],
+
+    "players": [
+        {
+            "title": "Le GOAT",
+            "body": "why do we use it?\nIt is a long established fact that a reader will be distracted",
+            "author":"Abed",
+            "img_url": "https://images.unsplash.com/photo-1626025437642-0b05076ca301?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWVzc2l8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+            "id": 4,
+            "link": ""
+        }
+    ]
+
+    
+}
